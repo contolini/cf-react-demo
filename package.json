@@ -42,5 +42,6 @@
     "postinstall": "bower install && grunt compile-cf"
   },
   "dependencies": {
+
   }
 }
