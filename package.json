@@ -42,6 +42,5 @@
     "postinstall": "bower install && grunt compile-cf"
   },
   "dependencies": {
-    "react": "^0.13.1"
   }
 }
